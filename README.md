@@ -1,2 +1,2 @@
-# mit-app-inventor
-MIT App Inventor project with Arduino hardware integration
+# Smart-Security-Cabinet
+MIT App Inventor project with ESP32 Microcontroller - hardware integration.
