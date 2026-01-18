@@ -1,2 +1,2 @@
 # Smart-Security-Cabinet
-MIT App Inventor project with ESP32 Microcontroller - hardware integration.
+MIT App Inventor project with ARDUINO UNO- hardware integration.
