@@ -1,3 +1,4 @@
 # Smart-Security-Cabinet
 
-The **Smart Cabinet** is a hardware-based automation project designed to organize and access stored items intelligently. It uses sensors and Arduino to detect item placement, track usage, and improve convenience.
+The **Smart Cabinet** is an interactive automation system designed to monitor cabinet status, detect activity, and provide user control through a mobile application.  
+This system enhances security, convenience, and automation using sensors and Bluetooth communication.
