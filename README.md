@@ -12,3 +12,11 @@ The **Smart Cabinet** is an interactive automation system designed to monitor ca
 - Buzzer  
 - OLED Display  
 - MIT App Inventor Mobile App
+## System Features
+- Cabinet Status Monitoring (Open/Closed)
+- Motion & Presence Detection
+- Laser–LDR Intrusion Detection
+- Mobile App Control via Bluetooth
+- Live OLED Display Feedback
+- Alarm Notification using Buzzer
+- Auto Servo Door Control
