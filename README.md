@@ -20,3 +20,11 @@ The **Smart Cabinet** is an interactive automation system designed to monitor ca
 - Live OLED Display Feedback
 - Alarm Notification using Buzzer
 - Auto Servo Door Control
+## Working Principle
+* Ultrasonic sensor measures distance inside the cabinet.
+* If the distance changes, system detects cabinet activity.
+* LDR detects laser interruption → triggers security event.
+* Servo operates gate/cabinet door on command or sensor logic.
+* Bluetooth receives commands from MIT App Inventor app.
+* OLED display shows real-time system status.
+* Buzzer alerts on intrusion or abnormal activity.
